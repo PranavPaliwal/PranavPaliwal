@@ -41,7 +41,7 @@
 <td style="text-align:center">
     <img src="https://img.shields.io/badge/--black?logo=python&logoColor=f5f5f5" alt="python" title="Python" height="30"> <br>
     <img src="https://img.shields.io/badge/--black?logo=c&logoColor=f5f5f5" alt="c" title="C" height="30"> <br>
-    <img src="https://img.shields.io/badge/:badgeContent" alt="java" title="Java" height="30"> <br>
+    <img src="https://img.shields.io/badge/--black?logo=JAVA&logoColor=f5f5f5" alt="java" title="Java" height="30"> <br>
 </td>
 
 <td style="text-align:center">
