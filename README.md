@@ -50,7 +50,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/just_pranavv)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@pranavpaliwal6)
 
-### ✍️ Random Dev Quote
+### ✍️ Epigram
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
